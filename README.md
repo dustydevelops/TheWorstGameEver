@@ -1,7 +1,13 @@
                                         github.com/DustyDevelops/TheWorstGameEver
+Train dat brain!
 
-The never ending educational game that makes simple addition fun.
+You can't win this game, but you will win a faster brain. 
 
-Choose your difficulty level, but remember, the game will increase the difficulty level until you start to  struggle. 
+You choose your difficulty level, but that doesn't mean this will be easy.
 
-Great way to train your cognitive abilities or just kill some time.
+TheWorstGameEver is meant to challenge you and never stop challenging you. 
+
+It's also designed to never push to far beyond your capabilities.
+
+If you're not struggling, the game will know, and it will change that.
+
