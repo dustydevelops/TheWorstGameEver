@@ -1,2 +1,7 @@
-# aSimpleAdditionGame
-The never ending math test that starts with the users chosen difficulty level.However, that  challenge increases by a factor of 10 when you do too well. 
+                                        github.com/DustyDevelops/TheWorstGameEver
+
+The never ending educational game that makes simple addition fun.
+
+Choose your difficulty level, but remember, the game will increase the difficulty level until you start to  struggle. 
+
+Great way to train your cognitive abilities or just kill some time.
