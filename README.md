@@ -18,7 +18,6 @@ An IDLE window should open with the title main.py
 -if not, right or double click main.py file and open with IDLE3.8.x
 RUN IT!! In the menu bar click run> run module 
 or function f5 
-
 ----------------------------------------------
 EXAMPLE OF THE OUTPUT
 
