@@ -3,11 +3,11 @@
 
 You can't win this game, but you will train dat brain!
 
-You choose your difficulty level, but that doesn't mean this will be easy.
+You choose your difficulty level initially, but the difficulty will quickly adapt to your true ability.
 
 TheWorstGameEver is meant to challenge you and never stop challenging you. 
 
-It's also designed to never push to far beyond your capabilities.
+It will push to your limit, let you get comfortable, and then push you again.
 
-If you're not struggling, the game will know, and it will change that.
+
 
