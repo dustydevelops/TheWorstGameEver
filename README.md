@@ -1,7 +1,7 @@
                                         github.com/DustyDevelops/TheWorstGameEver
-Train dat brain!
 
-You can't win this game, but you will win a faster brain. 
+
+You can't win this game, but you will train dat brain!
 
 You choose your difficulty level, but that doesn't mean this will be easy.
 
